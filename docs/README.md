@@ -22,7 +22,7 @@ Screenshot:
 
 <br>
 Screenshot:
-<img width="100%" height="100%" src="https://github.com/JLangevine/saletimeapp/blob/master/images/screenshots/SaleTime_App_POC0_Screen_Shot_2026-01-14.png">
+<img width="100%" height="100%" src="../images/screenshots/SaleTime_App_POC0_Screen_Shot_2026-01-14.png">
 
 <br>
 
