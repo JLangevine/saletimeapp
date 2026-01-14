@@ -5,7 +5,9 @@ Track those sales!
 <br>
 At last! Development of POCs for The SaleTime App is in progress. See the following for more details:
 
-* POC 1 - _Built leveraging AI Studio_ - https://github.com/JLangevine/SaleTimeAppPOC1
+* POC 0 - 2018 - https://jlangevine.github.io/saletimeapp/index
+  
+* POC 1 - 2026 - _Built leveraging AI Studio_ - https://github.com/JLangevine/SaleTimeAppPOC1
 <br>
 
 # About Me
