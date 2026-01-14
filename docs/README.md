@@ -1,13 +1,29 @@
-# saletimeapp
+<h1>The SaleTime App</h1>
 Track those sales!
 <br>
-# **January 2026 Update!**
+<h2>January 2026 Update!</h2>
 <br>
-At last! Development of POCs for The SaleTime App is in progress. See the following for more details:
+<p>Development of POCs for The SaleTime App is in progress! See below for more details. </p>
 
-* POC 0 - 2018 - https://jlangevine.github.io/saletimeapp/index
+<h4><strong>POC 1 - 2026</strong></h4>
+
+* Note: This was _built leveraging AI Studio_
+
+* Link to more info - https://github.com/JLangevine/SaleTimeAppPOC1
   
-* POC 1 - 2026 - _Built leveraging AI Studio_ - https://github.com/JLangevine/SaleTimeAppPOC1
+<br>
+Screenshot:
+<img width="100%" height="100%" src="https://github.com/JLangevine/saletimeapp/blob/master/images/screenshots/SaleTime_App_POC1_Screen_Shot_000_2026-01-14.png">
+<br>
+
+<h4><strong>POC 0 - 2018 </strong></h4>
+
+* Link to more info - https://jlangevine.github.io/saletimeapp/index
+
+<br>
+Screenshot:
+<img width="100%" height="100%" src="https://github.com/JLangevine/saletimeapp/blob/master/images/screenshots/SaleTime_App_POC0_Screen_Shot_2026-01-14.png">
+
 <br>
 
 # About Me
